@@ -1,0 +1,68 @@
+// 5.write a program area of right angle traingle?
+
+// var a=0.5
+// var b=50
+// var h=100
+// console.log(a*b*h)
+
+// 6.wap distance between two points
+
+// var x1=5
+// var x2=8
+// var y1=4
+// var y2=9
+// let d=(x2-x1)**1/4+(y2-y1)**1/4
+// console.log(d)
+
+// // 7. write a program for the total number of coins in given amount?
+// var a= 100
+// var b=50
+// var c=20
+// var d=10
+
+// var w=10
+// var x=5
+// var y=2
+// var z=1
+// let coins=(a*w)+(b*x)+(c*y)+(d*z)
+// console.log(coins)
+
+// 8.write a program to extract last digit of a number 
+// var a=12345
+// let b=a%10
+// console.log(b)
+
+////////////////////////////////////////////////////////////////////////////
+// 22-11-2023
+// // 1.Write a programm to check if two numbers are equal.if they are equal then console your statement.
+// var a = 7
+// var b=7
+// if(a==b){
+//     console.log("the two numbers are equal")
+// }
+
+// 2.Write a program to check if a variable is interger and if yes console the statement.if a variable is chacter, if a variable is string ... And and console your statementa
+
+// var a= "45";
+// if(typeof(a)=="number"){
+//     console.log("the number is interger")
+// }
+
+// if(typeof(a)=="string") {
+//     console.log("the number is string")
+// } 
+
+// 3.Program to increment a number if it is positive
+
+// var a=4
+// if(a>=0){
+//     console.log(a+1)
+    
+// 4.Write a program to determine whether a person is eligible to vote.
+//     var a=15
+//     if(a>=18){
+//         console.log("person is eligible for vote")
+//     }
+//     else{
+//     console.log("the person is not eligible for vote")
+//     }
