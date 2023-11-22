@@ -1,0 +1,43 @@
+// 1.Write a program to calculate salary of an employee given his basic pay (to be entered by the user), HRA = 10 per cent of basic pay, TA = 5 per cent of basic pay. Define HRA and TA as constants and use them to calculate the salary of the employee.
+// var c=70000
+// var h=10*(70000/100)
+// var t=5*70000/100
+// var s=c-h-t
+// console.log(s)
+
+// 2. Write a program that calculates number of seconds in a day.
+// var x=2;
+// var y=3;
+// var p=1;
+// for(i=0;i<=y;i++){
+//     p=p**y;
+    
+// }
+// console.log(p)
+// 3.Write a program that prompts users to enter two integers x and y. The program then calculates and displays x power y.
+// function p(x,y){
+// // var x=2
+// // var y=3
+// return x**y
+// }console.log(p(2,3))
+// // console.log(x**y)
+
+// 4.Write a program to calculate simple interest and compound interes. 
+
+// var p=4000
+// var t=24
+// var r=12
+// console.log(s=p*t*r/100)
+// function si(p,t,r){
+//     return s=p*t*r/100
+    
+// }console.log(si(4000,24,12))
+
+// var p=8000
+// var r=2
+// var n=5
+// // console.log(8000*(1+2/100)**5)
+// console.log(p*(1+r/100)**5)
+// function c(p,r,n){
+//     return ci=p*(1*r/100)**n
+// }console.log(c(8000,2,5))
